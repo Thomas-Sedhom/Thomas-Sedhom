@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thomas-sedhom-b024111b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-sedhom-b024111b5/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thomas.sedhom.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thomas.sedhom.1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/thpmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/thpmas" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/https://leetcode.com/u/thpmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/thpmas" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
