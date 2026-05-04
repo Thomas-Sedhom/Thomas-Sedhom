@@ -7,7 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thomas-sedhom-b024111b5/)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/thomas.sedhom.1)
 
 <h3 align="left">Languages and Tools:</h3>
 
